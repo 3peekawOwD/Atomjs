@@ -10,3 +10,4 @@ git clone git://github.com/NickProgramm/Atomjs.git
 cd Atomjs
 npm install
 ```
+(C)2019 NickProgramm
