@@ -15,7 +15,7 @@
     "atomjs"
   ],
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/@NickProgramm"
+    "registry": "https://npm.pkg.github.com/"
   },
   "author": "nickprogramm",
   "license": "MIT",
