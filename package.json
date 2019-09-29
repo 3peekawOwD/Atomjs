@@ -13,7 +13,9 @@
   "keywords": [
     "atomjs"
   ],
-  "publishConfig": { "registry": "https://npm.pkg.github.com/@NickProgramm" },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/@NickProgramm"
+  },
   "author": "nickprogramm",
   "license": "MIT",
   "bugs": {
